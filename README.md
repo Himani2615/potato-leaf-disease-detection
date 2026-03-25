@@ -2,7 +2,7 @@
 
 A deep learning-based image classification system to detect potato leaf diseases using Convolutional Neural Networks (CNNs).
 
----
+
 
 ## Highlights
 
@@ -10,7 +10,7 @@ A deep learning-based image classification system to detect potato leaf diseases
 * Implemented data augmentation for better generalization
 * Designed a modular ML pipeline (data loading, model, prediction)
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,6 @@ A deep learning-based image classification system to detect potato leaf diseases
 * OpenCV
 
 
----
 
 ## Workflow
 
@@ -32,7 +31,7 @@ A deep learning-based image classification system to detect potato leaf diseases
 5. Predict disease class for new images
 
 
----
+
 
 ## How to Run
 
@@ -46,7 +45,7 @@ A deep learning-based image classification system to detect potato leaf diseases
 4. Update dataset path as required
 
 
----
+
 
 ## Applications
 
